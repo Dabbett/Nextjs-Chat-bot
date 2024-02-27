@@ -1,5 +1,6 @@
 "use client";
 
+
 import { useChat } from "ai/react"
 import { useEffect, useRef } from "react";
 import Textarea from 'react-textarea-autosize'
