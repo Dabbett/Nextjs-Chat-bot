@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+*** depricated ***
+My appologies... this planetScale site has decided to no longer offer a free version, so soon this site will no longer function as designed. I have decided not to support updates in favor of working on other more important projects, but I will return to it in the future when freetime allows. 
 
-## Getting Started
+# Next.js Chat App
 
-First, run the development server:
+Welcome to my Next.js chat application repository! This project showcases my skills in building real-time chat applications using modern technologies including Next.js, Vercel, Prisma, Tailwind CSS, and Node.js. It's a demonstration of my ability to architect scalable and responsive web applications with a focus on user experience and performance.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This chat application allows users to communicate in real-time, offering a seamless and interactive experience. Leveraging the power of Next.js for server-side rendering, Vercel for deployment, Prisma for database management, Tailwind CSS for styling, and Node.js for backend logic, this project embodies the latest trends and best practices in web development.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Real-time Communication**: Users can engage in real-time conversations, enabling instant messaging and collaboration.
+- **Responsive Design**: The application is built with a responsive design, ensuring a consistent and optimal experience across devices of all sizes.
+- **Scalable Architecture**: The use of Next.js and Prisma ensures a scalable and maintainable architecture, capable of handling growing user bases and complex requirements.
+- **Customization with Tailwind CSS**: Tailwind CSS provides a flexible and utility-first approach to styling, allowing for easy customization and extensibility.
+- **Secure Authentication**: User authentication and authorization are implemented securely, ensuring data privacy and protection.
 
-## Learn More
+## Deployment
 
-To learn more about Next.js, take a look at the following resources:
+This application is deployed on Netlify, offering a seamless deployment experience with automatic builds and continuous integration. HOWEVER, my free planetScale account has transitioned to paid, and I have decided not to support it financially at this time. You can access the demo by going to: https://silver-alpaca-ed5da0.netlify.app/ but there are no promises that it will function as designed. 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contributing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+This is a work in progress and contributions are welcome! If you find any bugs, have feature requests, or want to contribute improvements, please feel free to open an issue or submit a pull request. Let's collaborate and make this project even better together!
 
-## Deploy on Vercel
+## Contact
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Interested in collaborating on a project, discussing job opportunities, or just want to connect? Feel free to reach out to me via [email](mailto:abbettdylan@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dylanabbett/). I'm always open to new opportunities and conversations!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Thank you for checking out my Next.js chat application.
